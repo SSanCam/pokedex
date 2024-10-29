@@ -15,6 +15,8 @@
                                     isEspecial
                                     TipoDTO tipo
     
-    
+    JPARepository
+    CRUDRepository
 
+// hacer extense de una de las dos, vamos a usar JPARepository
 */
